@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-family: 'Rubik', sans-serif;
+  box-sizing: border-box;
+}
+
+@import './others/variables.scss';
+
+@import './others/communElements.scss';
+
+@import './pages/home.scss';
+
+@import './pages/falcon9.scss';
+
+@import './pages/humanSpace.scss';
